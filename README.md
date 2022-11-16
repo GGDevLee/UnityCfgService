@@ -32,5 +32,5 @@ using LeeFramework.Cfg;
 #### 【[Excel服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Excel.md)】
 #### 【[Json服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Json.md)】
 #### 【[Xml服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Xml.md)】
-#### 【[Binary服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/BInary.md)】
+#### 【[Binary服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Binary.md)】
 #### 【[ProtoBuf服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/ProtoBuf.md)】
