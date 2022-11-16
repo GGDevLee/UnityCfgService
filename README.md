@@ -28,9 +28,9 @@ using LeeFramework.Cfg;
 <br />
 
 ####  所有服务：
-#### 【[Csv服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/Csv.md)】
-#### 【[Excel服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/Excel.md)】
-#### 【[Json服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/Json.md)】
-#### 【[Xml服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/Xml.md)】
-#### 【[Binary服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/Binary.md)】
-#### 【[ProtoBuf服务](https://gitee.com/GameDevLee/CfgService/blob/master/Document/ProtoBuf.md)】
+#### 【[Csv服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Csv.md)】
+#### 【[Excel服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Excel.md)】
+#### 【[Json服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Json.md)】
+#### 【[Xml服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Xml.md)】
+#### 【[Binary服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/Binary.md)】
+#### 【[ProtoBuf服务](https://github.com/GGDevLee/UnityCfgService/blob/main/Document/ProtoBuf.md)】
