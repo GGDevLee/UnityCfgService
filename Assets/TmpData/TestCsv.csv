@@ -1,0 +1,3 @@
+﻿name,age,year,array,isTall
+名字,年龄,年份,测试数组,是否高
+李慧霞,10,2020,"10;20;30",False

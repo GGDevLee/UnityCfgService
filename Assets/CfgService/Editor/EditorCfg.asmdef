@@ -1,0 +1,19 @@
+{
+    "name": "EditorCfg",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a410e729469953945bac7f46b3ed8fbc",
+        "GUID:f0fa6ad9fd9f49a9beb9f2ecc2c6e774",
+        "GUID:1fb6e15252a4464fb765e511db554937",
+        "GUID:836a6f11df364127a81570d40981afa0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

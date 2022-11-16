@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestXml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="李慧霞" age="10" year="23">
+  <apple>1</apple>
+  <apple>2</apple>
+  <apple>3</apple>
+  <list uiPanelName="uiPanelName" uiName="UIName" uiPath="UIPath" uiType="Button" instanceId="1000" />
+</TestXml>
