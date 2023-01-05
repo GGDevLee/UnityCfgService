@@ -15,7 +15,7 @@
 ```json
 {
   "dependencies": {
-	"com.leeframework.cfgservice":"https://e.coding.net/ggdevlee/leeframework/CfgService.git#1.0.0"
+	"com.leeframework.cfg":"https://e.coding.net/ggdevlee/leeframework/CfgService.git#1.0.1"
   }
 }
 ```
